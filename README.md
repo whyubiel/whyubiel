@@ -1,5 +1,5 @@
-
-
+## Olá , Meu nome e Gabriel Cortês
+Futuro dev Full Stack 
 <img width="14%" align="right"  alt="bielcortes" src="https://i.imgur.com/hxp9nxs.png" />  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyubiel&show_icons=true&theme=radical)
