@@ -1,4 +1,4 @@
-## Olá , Meu nome e Gabriel Cortês  !
+## Hello Welcome to my profile, I'm Gray. !
 Futuro dev Full Stack 
 <img width="35%" align="right"  alt="bielcortes" src="https://i.imgur.com/hxp9nxs.png" />  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyubiel&show_icons=true&theme=radical)
